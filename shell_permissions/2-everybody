@@ -1,1 +1,2 @@
+# Adds execute permission to owner, group, and others
 chmod u+x g+x o+x hello
